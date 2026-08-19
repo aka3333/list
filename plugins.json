@@ -1,0 +1,86 @@
+[
+  {
+    "iconUrl": "https://dizibal.com/apple-touch-icon.png",
+    "fileHash": "sha256-ec4e9b9927f647431a30bd9f46a47aee95c239749e24f150f56b8c6a67fa5966",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aka3333/cs",
+    "fileSize": 31710,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "aka3333"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "DiziBal",
+    "description": "En popüler yabancı dizileri yeni bölümleriyle takip edin.",
+    "url": "https://github.com/aka3333/list/raw/refs/heads/cs/DiziBal.cs3",
+    "name": "DiziBal"
+  },
+  {
+    "iconUrl": "https://filmmakinesi.to/icons/256.png",
+    "fileHash": "sha256-8d1d9a8571947436a837aaf7102fd2c8ace8f27683872b5ee83d4bd80e8a15c9",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aka3333/cs",
+    "fileSize": 25536,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "aka3333"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "FilmMakinesi",
+    "description": "FilmMakinesi, Türkçe Film ve Dizi Sağlayıcısı",
+    "url": "https://github.com/aka3333/list/raw/refs/heads/cs/FilmMakinesi.cs3",
+    "name": "FilmMakinesi"
+  },
+  {
+    "iconUrl": "https://www.fullhdfilmizlesene.now/apple-touch-icon.png",
+    "fileHash": "sha256-c3badd35e4264d8c76eb44d00c3f9384ab1a77c6e0db45d8deb9b8f2f7c34618",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aka3333/cs",
+    "fileSize": 18345,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "aka3333"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 1,
+    "internalName": "FullHdFilmizlesene",
+    "description": "FullHdFilmizlesene, Türkçe Film Sağlayıcısı",
+    "url": "https://github.com/aka3333/list/raw/refs/heads/cs/FullHdFilmizlesene.cs3",
+    "name": "FullHdFilmizlesene"
+  },
+  {
+    "iconUrl": "https://www.hdfilmcehennemi.nl/assets/front/icon/apple-touch-icon.png",
+    "fileHash": "sha256-187805233598ce7aa8a4fca842823ebaf102e759a8c209b42af6d6d06717bf16",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/aka3333/cs",
+    "fileSize": 25356,
+    "status": 1,
+    "language": "tr",
+    "authors": [
+      "aka3333"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "HdFilmCehennemi",
+    "description": "HDFilmCehennemi, Türkçe Film ve Dizi Sağlayıcısı",
+    "url": "https://github.com/aka3333/list/raw/refs/heads/cs/HdFilmCehennemi.cs3",
+    "name": "HdFilmCehennemi"
+  }
+]
